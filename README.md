@@ -31,7 +31,7 @@
 - Introduction to `grid` for structuring content  
 - Media queries: Setting breakpoints for different screen sizes  
 
-## **4. [Enhancing WordPress Designs with CSS**][4]
+## [**4. Enhancing WordPress Designs with CSS**][4]
 
 - Where to add custom CSS in WordPress (Customizer, theme files, page builders)  
 - Targeting WordPress-generated classes  
