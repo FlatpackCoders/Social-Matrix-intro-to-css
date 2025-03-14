@@ -1,20 +1,28 @@
 ![Flatpack Coders Logo](./Assets/Logo_TypeAll_Black_Orange%20(1).jpg)
 
-# **Intermediate CSS for WordPress Designers**  
+# **Intermediate CSS for WordPress Designers**
 
-## **1. CSS Essentials & Best Practices**  
+## **0. Intro to CSS**
 
-- Understanding the cascade, specificity, and inheritance  
-- CSS units (`px`, `em`, `rem`, `%`, `vh`, `vw`) and when to use them  
-- Writing clean and maintainable CSS
-- Using `!important`
+- What is CSS?
+- How Browsers Render CSS
+- Linking CSS to HTML
+- CSS Syntax & Structure
+- The CSS Box Model
 
-## **2. Selectors & Pseudo-Elements**  
+## **1. Selectors & Pseudo-Elements**  
 
 - Common selectors (`.class`, `#id`, `element`, `*`)  
 - Advanced selectors (`:nth-child()`, `:not()`, `attribute selectors`)  
 - Pseudo-elements (`::before`, `::after`) for adding visual elements  
 - Styling form inputs dynamically (`:focus`, `:checked`, `:disabled`)  
+
+## **2. CSS Essentials & Best Practices**  
+
+- Understanding the cascade, specificity, and inheritance  
+- CSS units (`px`, `em`, `rem`, `%`, `vh`, `vw`) and when to use them  
+- Writing clean and maintainable CSS
+- Using `!important`
 
 ## **3. Responsive Design & Layout Techniques**  
 
